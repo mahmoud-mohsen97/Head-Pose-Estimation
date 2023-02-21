@@ -8,5 +8,6 @@ so I used a machine learning model tries to estimate these values using facial l
 
 # Demo
 
-https://user-images.githubusercontent.com/125984328/220451092-56baed4c-97db-4c42-8944-719692cba011.mp4
+https://user-images.githubusercontent.com/125984328/220481962-84244e46-9203-4f86-9a9b-401559b57e1e.mp4
+
 
